@@ -23,6 +23,12 @@ jobs:
         with:
           version: '3.5'
 
+      - name: Install fonts-ubuntu
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-ubuntu
+          sudo apt-get install -y fonts-freefont-ttf
+
       - name: Compile LaTeX to PDF with XeLaTeX
         run: |
           export PATH="/home/runner/work/_temp/setup-texlive-action/2024/bin/x86_64-linux:$PATH"
