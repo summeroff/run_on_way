@@ -38,7 +38,7 @@ The full narrative is available in the repository, compiled into a single LaTeX 
 - **LaTeX Sources**:
   - `book_run_on_way.tex`: The complete story in Russian with English metadata.
 - **Lore Summary**:
-  - `lore_summary.txt`: (Pending) A detailed overview of the story’s characters, events, and themes.
+  - `lore_summary.md`: An  overview of the story’s characters, events, and themes.
 - **Release Scripts**:
   - GitHub Actions script to automate generation of reader formats (PDF, EPUB, etc.).
 
