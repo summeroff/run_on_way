@@ -16,18 +16,20 @@ jobs:
         uses: teatimeguest/setup-texlive-action@v3
         with:
           packages: >-
-            latexmk xetex fontspec polyglossia xunicode geometry hyperref fancyhdr microtype hyphen-russian setspace graphics oberdiek tools xdvipdfmx
+            latexmk xetex fontspec polyglossia geometry hyperref fancyhdr microtype hyphen-russian setspace graphics oberdiek xdvipdfmx
 
       - name: Install Pandoc
         uses: pandoc/actions/setup@v1
         with:
           version: '3.5'
 
-      - name: Install fonts-ubuntu
+      - name: Install system fonts
         run: |
           sudo apt-get update
-          sudo apt-get install -y fonts-ubuntu fonts-ubuntu-font-family-console
-          sudo fc-cache -f -v
+          sudo apt-get install -y \
+            fonts-noto-core \  # Contains Noto Serif
+            fonts-dejavu \     # Contains DejaVu
+            texlive-lang-cyrillic
 
       - name: Compile LaTeX to PDF with XeLaTeX
         run: |

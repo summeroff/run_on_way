@@ -12,7 +12,7 @@ The story contains potentially triggering or distressing content, including:
 These elements are fictional and do not reflect the author’s personal views. **Reader discretion is advised**.
 
 ## Story Summary (Lore) - Spoiler Alert!
-For a detailed lore summary, see [lore_summary.txt](lore_summary.txt) (to be added).
+For a detailed lore summary, see [lore_summary.md](lore_summary.md) (to be added).
 
 ### Brief Overview:
 Aleksey, a quiet and reserved IT worker, lives a life of deliberate invisibility, shaped by his grandmother’s mantra of staying unnoticed. When a neighbor’s suicide disrupts his routine, cryptic notes and eerie encounters begin to unravel his carefully maintained solitude. Fleeing to a remote town for a fresh start, he finds temporary peace—until mysterious figures, threatening messages, and a vanishing dog drag him into a spiraling nightmare. As reality blurs with paranoia, Aleksey fights to protect his sanity and uncover the forces stalking him, only to face a chilling intervention that questions the boundaries of his mind.
