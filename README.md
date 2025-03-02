@@ -3,13 +3,13 @@
 This repository contains the source files and compiled versions of the completed fictional story, "Пробежать свой путь" (Run Your Way), a psychological suspense narrative exploring themes of isolation, paranoia, identity, and the struggle to reclaim control amidst unseen threats.
 
 ## Content Warning
-The story includes potentially triggering or distressing content, such as:
-- Themes of mental strain, paranoia, and existential dread
-- Depictions of violence and psychological pressure
-- References to loss and betrayal
-- Surreal and unsettling narrative elements
+"Run Your Way" (Пробежать свой путь) is a psychological suspense story that may contain unsettling or distressing elements, including:
+- Themes of isolation, paranoia, and psychological tension
+- Depictions of fear, loss, and existential unease
+- Subtle horror and surreal moments
+- References to violence and emotional distress
 
-These elements are fictional and do not reflect the author’s personal views. **Reader discretion is advised**.
+This is a work of fiction and does not reflect the author’s personal views. **Reader discretion is advised**.
 
 ## Story Summary (Lore) - Spoiler Alert!
 For a detailed lore summary, see [lore_summary.md](lore_summary.md) (to be added).
